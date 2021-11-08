@@ -101,5 +101,6 @@ this.configPath = os_1.homedir() + '/.picgo/config.json';
 配置完之后，我们就可以进行 md 文档编写了，然后截图之后直接拷贝到 md 文档中选择上传图片即可。他会自动把图片的URL替换成对应的网络图片URL。
 
 ————————————————
+
 版权声明：本文为CSDN博主「Readiay」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
 原文链接：https://blog.csdn.net/Readiay/article/details/105985859
